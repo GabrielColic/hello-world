@@ -1,3 +1,0 @@
-# Test datoteka
-
-Vježba
